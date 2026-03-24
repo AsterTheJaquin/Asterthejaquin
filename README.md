@@ -1,2 +1,3 @@
-<div align="center"> : ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=asterthejaquin)
+<div align="center"> :
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=asterthejaquin)
 <img src="https://i.postimg.cc/ncz4x7Lb/fdfsdf.png">
